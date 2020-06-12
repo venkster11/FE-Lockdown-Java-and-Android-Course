@@ -1,0 +1,2 @@
+rootProject.name='FE_app_session'
+include ':app'
